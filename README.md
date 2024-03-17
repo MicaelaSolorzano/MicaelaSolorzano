@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Micaela Diana Solórzano</h1>
-<h3 align="center">I am a passionate fullstack developer from Argentina. I specialice on some technologies such as React, JavaScript, TypeScript, Express,PostgreSQL and NodeJS</h3>
+<h2> Who am I? </h2>
+<h3>I am an 18-year-old fullstack developer from Argentina. I specialice on some technologies such as React, JavaScript, TypeScript, Express, PostgreSQL, NodeJS and MongoDB. I am passionate about challenges and learning new technologies that make me expand my skills on my professional career as a programmer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MicaelaSolorzano&label=Profile%20views&color=0e75b6&style=flat" alt="MicaelaSolorzano" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MicaelaSolorzano&theme=tokyonight" alt="MicaelaSolorzano" /></a> </p>
