@@ -4,7 +4,7 @@
 <h3>I am an 18-year-old fullstack developer from Argentina. I specialice on some technologies such as React, JavaScript, TypeScript, Express, PostgreSQL, NodeJS and MongoDB. I am passionate about challenges and learning new technologies that make me expand my skills on my professional career as a programmer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MicaelaSolorzano&label=Profile%20views&color=0e75b6&style=flat" alt="MicaelaSolorzano" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MicaelaSolorzano&theme=tokyonight" alt="MicaelaSolorzano" /></a> </p>
+
 
 
 - 📫 How to reach me **mica.solorz@gmail.com**
@@ -15,6 +15,8 @@
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/Micaela Diana Solórzano" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Micaela Diana Solórzano" height="30" width="40" /></a></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MicaelaSolorzano&theme=tokyonight" alt="MicaelaSolorzano" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
