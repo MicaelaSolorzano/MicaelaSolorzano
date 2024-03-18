@@ -1,7 +1,13 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Micaela Diana Solórzano</h1>
 <h2> Who am I? </h2>
-<h3>I am an 18-year-old fullstack developer from Argentina. I specialice on some technologies such as React, JavaScript, TypeScript, Express, PostgreSQL, NodeJS and MongoDB. I am passionate about challenges and learning new technologies that make me expand my skills on my professional career as a programmer.</h3>
+<h3>I am a full stack developer from Buenos Aires, Argentina. I specialize in frontend and backend development, with skills in Typescript, JavaScript, React, Redux, NodeJS and Express. I had the oportunity to work in projects which included databases management with PostgreSQL, and I am excited to expand my knoweldge and face new challenges.
+
+I am passionate about continuous learning and expanding my skills. I excel at quickly grasping new concepts and am always ready to take on new challenges and explore emerging technologies.
+
+Additionally, I speak native spanish and I am looking forward to improve my english.
+
+If you're looking for someone proactive and eager to expand their knowledge and work as part of a team, don't hesitate to contact me.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MicaelaSolorzano&label=Profile%20views&color=0e75b6&style=flat" alt="MicaelaSolorzano" /> </p>
 
 
